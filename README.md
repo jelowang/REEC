@@ -1,3 +1,3 @@
 # REEC
-![](https://storage.googleapis.com/google-code-archive/v2/code.google.com/reec/logo.png)  
+![](http://www.tok.cc/postpics/reec.jpg)  
 Regular Expressions Engine of C Languge
